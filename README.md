@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/PC-Steam-ff208a?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0d0f" alt="PC Steam">
 <img src="https://img.shields.io/badge/mod-Reloaded--II-f6f6f6?style=for-the-badge&labelColor=0d0d0f" alt="Reloaded-II">
 <a href="https://github.com/igorwingert/Danganronpa-V3-PTBR/releases"><img src="https://img.shields.io/github/downloads/igorwingert/Danganronpa-V3-PTBR/total?style=for-the-badge&label=downloads&color=ff208a&labelColor=0d0d0f" alt="downloads"></a>
-<img src="https://img.shields.io/badge/Discord-okarma-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0f" alt="Discord: okarma">
+<img src="https://img.shields.io/badge/Discord-okarma.-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0f" alt="Discord: okarma.">
 
 <br><br>
 
@@ -28,7 +28,7 @@ Instala como mod do Reloaded-II, sem mexer em nenhum arquivo do jogo.
 > [!IMPORTANT]
 > ***Puhuhu...*** **Esta é uma versão beta!** A história está traduzida do começo ao fim, mas ainda **precisa de testes**.
 > O prólogo e o capítulo 1 já foram jogados e revisados; do capítulo 2 em diante, ainda não.
-> Achou algo estranho? Chama no Discord **okarma** ou [abra uma issue](https://github.com/igorwingert/Danganronpa-V3-PTBR/issues).
+> Achou algo estranho? Chama no Discord **okarma.** ou [abra uma issue](https://github.com/igorwingert/Danganronpa-V3-PTBR/issues).
 
 <br>
 
@@ -132,7 +132,7 @@ Extraia o zip dentro da pasta <code>Mods</code> do Reloaded-II, de forma que fiq
 
 **Achou uma contradição? Atire sua Bala da Verdade!** 🎯
 
-Chama no Discord **`okarma`** ou abra uma [**issue**](https://github.com/igorwingert/Danganronpa-V3-PTBR/issues) com:
+Chama no Discord **`okarma.`** ou abra uma [**issue**](https://github.com/igorwingert/Danganronpa-V3-PTBR/issues) com:
 
 - 📍 **onde aconteceu:** capítulo e cena (ex.: *"cap. 3, julgamento, Debate Sem Parar do Kiyo"*);
 - 💬 **o texto errado**, copiado ou em print;
@@ -173,7 +173,17 @@ Desative outros mods que troquem a fonte do jogo.
 
 A tradução é e sempre vai ser **gratuita**. Se ela te ajudou a curtir o jogo e você quiser apoiar o trabalho, qualquer Monomoeda ajuda! 🪙
 
-- [LINK DE APOIO]
+<div align="center">
+
+**Pix (chave aleatória)**
+
+```
+34c77f00-5644-4e0f-ade6-2e7f328e8440
+```
+
+<sub>Apoio é opcional e não libera nada a mais: todo mundo recebe a mesma tradução.</sub>
+
+</div>
 
 <br>
 
@@ -181,7 +191,7 @@ A tradução é e sempre vai ser **gratuita**. Se ela te ajudou a curtir o jogo 
 
 | | |
 |---|---|
-| **Tradução e revisão** | Igor · Discord `okarma` |
+| **Tradução e revisão** | Igor · Discord `okarma.` |
 | **Reloaded-II** e **CRI FileSystem V2 Hook** | [Sewer56](https://github.com/Sewer56) e contribuidores |
 | **Fontes livres (SIL OFL)** usadas nas imagens | Cinzel, Marcellus, Special Elite, EB Garamond, Zhi Mang Xing, Kaushan Script |
 
