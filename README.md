@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/igorwingert/Danganronpa-V3-PTBR/releases/latest"><img src="https://img.shields.io/badge/vers%C3%A3o-0.9.0--beta-ff208a?style=for-the-badge&labelColor=0d0d0f" alt="versão"></a>
+<a href="https://github.com/igorwingert/Danganronpa-V3-PTBR/releases"><img src="https://img.shields.io/badge/vers%C3%A3o-0.9.0--beta-ff208a?style=for-the-badge&labelColor=0d0d0f" alt="versão"></a>
 <img src="https://img.shields.io/badge/status-em%20testes-f6f6f6?style=for-the-badge&labelColor=0d0d0f" alt="status">
 <img src="https://img.shields.io/badge/PC-Steam-ff208a?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0d0f" alt="PC Steam">
 <img src="https://img.shields.io/badge/instala%C3%A7%C3%A3o-1%20clique-f6f6f6?style=for-the-badge&labelColor=0d0d0f" alt="instalação em 1 clique">
@@ -19,7 +19,7 @@ Instalador de 1 clique: escolhe a pasta, instala e joga pela Steam. Dá pra desi
 
 <br>
 
-<a href="https://github.com/igorwingert/Danganronpa-V3-PTBR/releases/latest"><img src="assets/baixar.png" alt="Baixar a tradução" width="440"></a>
+<a href="https://github.com/igorwingert/Danganronpa-V3-PTBR/releases"><img src="assets/baixar.png" alt="Baixar a tradução" width="440"></a>
 
 </div>
 
@@ -97,7 +97,7 @@ As imagens com texto foram redesenhadas no estilo do original: mesma fonte (ou a
 
 ### 🎮 Jeito fácil: instalador (recomendado)
 
-**1.** Baixe o **`Instalador_DRV3_PTBR_vX.X.X.exe`** na [última versão](https://github.com/igorwingert/Danganronpa-V3-PTBR/releases/latest).
+**1.** Baixe o **`Instalador_DRV3_PTBR_vX.X.X.exe`** na [última versão](https://github.com/igorwingert/Danganronpa-V3-PTBR/releases).
 
 **2.** Abra o instalador. Ele acha a pasta do jogo sozinho; se não achar, clique em <kbd>Procurar...</kbd> e escolha a pasta onde fica o `Dangan3Win.exe`.<br>
 <sub>Pra achar a pasta: na Biblioteca da Steam, botão direito no jogo → **Gerenciar** → **Ver arquivos locais**.</sub>
@@ -131,7 +131,7 @@ As imagens com texto foram redesenhadas no estilo do original: mesma fonte (ou a
 
 **1.** Instale o [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II/releases/latest) (`Setup.exe`). Se ele pedir pra instalar o .NET, aceite.<br>
 **2.** No Reloaded-II, clique no <kbd>+</kbd> (*Add an Application*) e escolha o `Dangan3Win.exe`.<br>
-**3.** Baixe o **`DRV3_PTBR_vX.X.X.zip`** da [última versão](https://github.com/igorwingert/Danganronpa-V3-PTBR/releases/latest) e **arraste pra janela do Reloaded-II**. Aceite baixar o **CRI FileSystem V2 Hook** se ele perguntar.<br>
+**3.** Baixe o **`DRV3_PTBR_vX.X.X.zip`** da [última versão](https://github.com/igorwingert/Danganronpa-V3-PTBR/releases) e **arraste pra janela do Reloaded-II**. Aceite baixar o **CRI FileSystem V2 Hook** se ele perguntar.<br>
 **4.** Marque **Danganronpa V3 - Tradução PT-BR** na lista de mods e clique em <kbd>Launch Application</kbd>.
 
 Nesse modo, abra o jogo **sempre pelo Reloaded-II** (pela Steam ele abre em inglês). Pra desinstalar, é só desmarcar o mod.<br>
